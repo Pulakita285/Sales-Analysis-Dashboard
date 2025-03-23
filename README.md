@@ -2,27 +2,27 @@
 This project is a Sales Analytics Dashboard built using Power BI and MySQL. The goal is to analyze sales performance, identify trends, and visualize key business insights.
 
 🛠 Tools & Technologies Used
-Power BI (for Data Visualization & Dashboarding)
-MySQL (for Data Storage & Queries)
-Excel / CSV (for Data Import & Transformation)
+1. Power BI (for Data Visualization & Dashboarding)
+2. MySQL (for Data Storage & Queries)
+3. Excel / CSV (for Data Import & Transformation)
 
 📂 Dataset Details
 The dataset consists of multiple tables:
-Customers: Customer details (code, name, type)
-Transactions: Sales transactions (product_code, customer_code, market_code, order_date, sales_qty, sales_amount, currency)
-Products: Product details(code, type)
-Markets: Geographic sales data(code, name, zone)
-Dates: Date reference table(date, cy_date, year, month_name, date_yy_mmm)
+1. Customers: Customer details (code, name, type)
+2. Transactions: Sales transactions (product_code, customer_code, market_code, order_date, sales_qty, sales_amount, currency)
+3. Products: Product details(code, type)
+4. Markets: Geographic sales data(code, name, zone)
+5. Dates: Date reference table(date, cy_date, year, month_name, date_yy_mmm)
 
 📌 Key Features
-Data Cleaning & Transformation using Power Query
-SQL Queries to fetch and manipulate data
-Interactive Dashboard with Filters & Slicers
-Visualizations: Bar Charts, Line Graphs, KPI Cards
-Sales Performance Insights
+1. Data Cleaning & Transformation using Power Query
+2. SQL Queries to fetch and manipulate data
+3. Interactive Dashboard with Filters & Slicers
+4. Visualizations: Bar Charts, Line Graphs, KPI Cards
+5. Sales Performance Insights
 
 📊 Insights from the Dashboard
-Sales Trends Over Time – Identified peak sales months
-Top-Selling Products – Highlighted most popular items
-Market-Wise Sales – Compared regional performance
-Revenue Breakdown – Analyzed profit contributions
+1. Sales Trends Over Time – Identified peak sales months
+2. Top-Selling Products – Highlighted most popular items
+3. Market-Wise Sales – Compared regional performance
+4. Revenue Breakdown – Analyzed profit contributions
