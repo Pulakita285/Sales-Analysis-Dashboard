@@ -12,7 +12,7 @@ The dataset consists of multiple tables:
 2. Transactions: Sales transactions (product_code, customer_code, market_code, order_date, sales_qty, sales_amount, currency)
 3. Products: Product details(code, type)
 4. Markets: Geographic sales data(code, name, zone)
-5. Dates: Date reference table(date, cy_date, year, month_name, date_yy_mmm)
+5. Dates: Date reference table(date, cy_date, year, month_name, date_yy_mm)
 
 📌 Key Features
 1. Data Cleaning & Transformation using Power Query
